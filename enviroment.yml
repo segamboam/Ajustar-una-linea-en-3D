@@ -1,0 +1,10 @@
+name: proyecto_durazno
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - anaconda
+  - scikit-spatial
+  - plotly
+prefix: /home/serch/anaconda3/envs/proyecto_durazno
