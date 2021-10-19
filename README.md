@@ -21,11 +21,12 @@ Para este ejemplo usamos 2 metodos.
 
 ## Ecuaciones de la linea 3D:
 
-La ecuación vectorial para una linea 3D se puede definir de la siguiente manera:
-$$ (x,y,z)=(x_{0},y_{0},z_{0})+ \alpha(v_{1},v_{2},v_{3})$$
-Para nuestra linea 3D de frutos de durazno seria:
-$$ (x,y,z)=(100.07,3.149, 3.051)+ \alpha(0.999198, 0.02996106,0.02656469)$$
-La ecuación parametrica para una linea 3D se puede definir de la siguiente manera:
-$$\frac{x-x_{0}}{v1}=\frac{y-y_{0}}{v2}=\frac{z-z_{0}}{v3}$$
-Para nuestra linea 3D de frutos de durazno seria:
-$$\frac{9975x}{9967}-\frac{849628}{8483} = \frac{12583y}{377}-\frac{653630}{6217}=\frac{71260z}{1893}-\frac{891467}{7760}$$
+La ecuación vectorial para una linea 3D se puede definir de la siguiente manera:  
+
+<img src = "https://render.githubusercontent.com/render/math?math=(x,y,z)=(x_{0},y_{0},z_{0})+ \alpha(v_{1},v_{2},v_{3})"  height=30px >  
+Para nuestra linea 3D de frutos de durazno seria:    
+<img src = "https://render.githubusercontent.com/render/math?math=(x,y,z)=(100.07,3.149, 3.051)+ \alpha(0.999198, 0.02996106,0.02656469)" height=30px >  
+La ecuación parametrica para una linea 3D se puede definir de la siguiente manera:  
+<img src = "https://render.githubusercontent.com/render/math?math=\frac{x-x_{0}}{v1}=\frac{y-y_{0}}{v2}=\frac{z-z_{0}}{v3}" height=50px >   
+Para nuestra linea 3D de frutos de durazno seria:  
+<img src = "https://render.githubusercontent.com/render/math?math=\frac{9975x}{9967}-\frac{849628}{8483} = \frac{12583y}{377}-\frac{653630}{6217}=\frac{71260z}{1893}-\frac{891467}{7760}" height=50px >  
