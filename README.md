@@ -13,11 +13,12 @@ Para este proyecto crearemos unos datos que tiene como referencia el crecimiento
 </center>
 Usando la descomposicion en valores singulares (SVD) creamos una linea 3D que mejor se ajusta a la nube de puntos. 
 Para este ejemplo usamos 2 metodos.
-1. Se realizaron los calculos usando numpy 
-2. Se utilizo la libreria scikit-spatial
-<center>
+
+1. Se realizaron los calculos usando numpy   
+2. Se utilizo la libreria scikit-spatial  
+
 <img src="notebooks/Line3D.png" height=455 width=650 >
-</center>
+
 
 ## Ecuaciones de la linea 3D:
 
