@@ -2,7 +2,7 @@
 **Author:** 
 Sergio Esteban Gamboa Muñoz  
 Data Analytics and Agricultural Engineer.  
-segamboam@gmail.com
+segamboam@gmail.com  
 https://www.linkedin.com/in/segamboam/
 
 _______________________________________________________________________________________________________________
@@ -22,7 +22,7 @@ For this example we use 2 methods.
 
 ## 3D line equations:
 
-The vector equation for a 3D line can be defined as follows:
+The vector equation for a 3D line can be defined as follows:  
 <img src = "https://render.githubusercontent.com/render/math?math=(x,y,z)=(x_{0},y_{0},z_{0})+ \alpha(v_{1},v_{2},v_{3})"  height=30px >  
 For our 3D line of peach fruits it would be:   
 <img src = "https://render.githubusercontent.com/render/math?math=(x,y,z)=(100.07,3.149, 3.051)+ \alpha(0.999198, 0.02996106,0.02656469)" height=30px >  
